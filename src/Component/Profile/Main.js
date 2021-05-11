@@ -28,9 +28,9 @@ const Main = () => {
   </Card>
   <div className='main'>
   <div className='profile'>
-  <ProfilePhoto />
-  <FullName />
-<Adress />
+  <ProfilePhoto />  {/* component ProfilePhoto */}
+  <FullName /> {/* component FullName */}
+<Adress /> {/* component Adress */}
 </div>
 <div className='profile'>
 <Card.Body>
